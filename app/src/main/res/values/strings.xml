@@ -15,4 +15,16 @@
     <string name="menu_distancia">Distància caminat o correns</string>
     <string name="menu_grafic">Imatge per demanar el gràfic d\'evolucióO</string>
     <string name="menu_pressi_arterial">Pressió arterial</string>
+
+    <string name="categories_activitat">Activitat</string>
+    <string name="categories_audicio">Audició</string>
+    <string name="categories_benestarMental">Benestar Mental</string>
+    <string name="categories_constants">Constants</string>
+    <string name="categories_controlDeCicle">Control de cicle</string>
+    <string name="categories_cor">Cor</string>
+    <string name="categories_medicacio">Medicació</string>
+    <string name="categories_mesuresCorporal">Mesures corporal</string>
+    <string name="categories_altresDades">Altres dades</string>
+
+
 </resources>
